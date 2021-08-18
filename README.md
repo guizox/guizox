@@ -5,6 +5,7 @@
 - 🇩🇪 Living in Munich/Germany
 - 🇧🇷 Brazilean
 - 🛩 Love to travel
+- ⚽️ Soccer player 
 
  <div>
   <a href="https://github.com/guizox">
