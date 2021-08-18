@@ -1,4 +1,11 @@
 ## Hi! My name is Vitor Vieira!!
+
+- 💻 Full Stack Developer at MVST
+- 💍 Marriage
+- 🇩🇪 Living in Munich/Germany
+- 🇧🇷 Brazilean
+- 🛩 Love to travel
+
  <div>
   <a href="https://github.com/guizox">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guizox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
