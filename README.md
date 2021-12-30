@@ -1,7 +1,7 @@
 ## Hi! My name is Vitor Vieira!!
 
 - 💻 Full Stack Developer at MVST
-- 💍 Marriage
+- 💍 Married
 - 🇩🇪 Living in Munich/Germany
 - 🇧🇷 Brazilean
 - 🛩 Love to travel
